@@ -2,7 +2,7 @@ package one.digitalinnovation.digiobank.teste
 
 import one.digitalinnovation.digiobank.Funcionario
 
-class imprimeRelatorioFuncao {
+class ImprimeRelatorioFuncao {
 
     companion object{
         fun imprime(funcionario:Funcionario){
